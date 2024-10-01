@@ -13,6 +13,12 @@ const users = [
     email: '123456@qq.com',
     password: '123456',
   },
+  {
+    id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
+    name: 'honeySyt',
+    email: '10086@qq.com',
+    password: '123456',
+  },
 ];
 
 const customers = [
@@ -136,7 +142,7 @@ const invoices = [
 ];
 
 const revenue = [
-  { month: 'Jan', revenue: 2000 },
+  { month: 'Jan', revenue: 5000 },
   { month: 'Feb', revenue: 1800 },
   { month: 'Mar', revenue: 2200 },
   { month: 'Apr', revenue: 2500 },
